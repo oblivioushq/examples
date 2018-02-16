@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.138.0",
-    "oblivious": "../client/"
+    "oblivious": "^0.3.2"
   }
 }
